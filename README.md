@@ -36,5 +36,5 @@ The directories in this repository showcase my production-ready data engineering
 ---
 
 ## 📫 Connect with Me
-*   *LinkedIn:* [://linkedin.com](https://www.://linkedin.com)
+*   *LinkedIn:* [://linkedin.com](https://www.linkedin.com/in/pjacobjane)
 *   *Email:* pjajane02@gmail.com
