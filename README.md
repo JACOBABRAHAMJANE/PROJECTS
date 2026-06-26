@@ -4,6 +4,26 @@ Welcome to my portfolio. I am a Computer Science & Engineering graduate speciali
 
 ---
 
+## 🌐 Portfolio Website
+
+Explore my complete portfolio website repository:
+
+🔗 Portfolio Repository:
+https://github.com/JACOBABRAHAMJANE/JACOB_Portfolio
+
+The portfolio includes:
+
+- About Me
+- Skills
+- Projects
+- Education
+- Certifications
+- Experience
+- Resume
+- Contact Information
+
+---
+
 ## 🛠️ Specialized Technical Focus
 
 ### 🌐 Generative AI & Large Language Models (LLMs)
