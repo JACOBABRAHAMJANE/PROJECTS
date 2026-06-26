@@ -7,7 +7,8 @@ Welcome to my portfolio. I am a Computer Science & Engineering graduate speciali
 ## 🌐 Portfolio Website
 
 Explore my complete portfolio website:
-🔗 Portfolio Website:
+
+-🔗 Portfolio Website:
 https://jacobabrahamjane.github.io/JACOB_Portfolio/
 
 The website includes:
@@ -21,7 +22,8 @@ The website includes:
 - Contact Information
 
 For the source code of the website:
-🔗 GitHub Repository:
+
+-🔗 GitHub Repository:
 https://github.com/JACOBABRAHAMJANE/JACOB_Portfolio
 
 ---
