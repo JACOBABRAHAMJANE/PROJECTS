@@ -11,14 +11,14 @@ Explore my complete portfolio website:
 https://jacobabrahamjane.github.io/JACOB_Portfolio/
 
 The website includes:
-About Me
-Skills
-Projects
-Education
-Certifications
-Experience
-Resume
-Contact Information
+- About Me
+- Skills
+- Projects
+- Education
+- Certifications
+- Experience
+- Resume
+- Contact Information
 
 For the source code of the website:
 🔗 GitHub Repository:
