@@ -8,7 +8,8 @@ Welcome to my portfolio. I am a Computer Science & Engineering graduate speciali
 
 Explore my complete portfolio website:
 
--🔗 Portfolio Website:
+🔗 Portfolio Website:
+
 https://jacobabrahamjane.github.io/JACOB_Portfolio/
 
 The website includes:
@@ -24,8 +25,8 @@ The website includes:
 For the source code of the website:
 
 -🔗 GitHub Repository:
-https://github.com/JACOBABRAHAMJANE/JACOB_Portfolio
 
+https://github.com/JACOBABRAHAMJANE/JACOB_Portfolio
 ---
 
 ## 🛠️ Specialized Technical Focus
