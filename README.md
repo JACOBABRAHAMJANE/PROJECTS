@@ -9,7 +9,7 @@ Welcome to my portfolio. I am a Computer Science & Engineering graduate speciali
 Explore my complete portfolio website repository:
 
 🔗 Portfolio Repository:
-https://github.com/JACOBABRAHAMJANE/JACOB_Portfolio
+[https://github.com/JACOBABRAHAMJANE/JACOB_Portfolio](https://jacobabrahamjane.github.io/JACOB_Portfolio/)
 
 The portfolio includes:
 
